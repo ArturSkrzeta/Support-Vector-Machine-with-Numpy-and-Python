@@ -7,5 +7,8 @@
   <li>The data can be split in different ways. However, the line making the biggest gap between two classes is chosen as the separation line.</li>
   <li>Support vectors are extreme points of a specific data set of one category.</li>
   <li>Support vectors are those elements of the data that makes the biggest possible separation gap.</li>
-  <li></li>
+  <li>Distance margin is the distance between support vectors from both data classes.</li>
+  <li>Once we create an optimal separation line we can easily see which side a new data fits in.</li>
+  <li>The smaller the distance margin, the highe a chance of miss-classification is.</li>
 </ul>
+
