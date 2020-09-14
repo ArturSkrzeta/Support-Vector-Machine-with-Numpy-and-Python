@@ -1,4 +1,4 @@
-<h2>Support Vector Machine with Python</h2>
+<h2>Support Vector Machine with Numpy and Python</h2>
 
 <h3>Intro</h3>
 <ul>
