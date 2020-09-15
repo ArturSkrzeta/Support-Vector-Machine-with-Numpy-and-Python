@@ -38,6 +38,8 @@
     - then second value from the array a is multiplied by the secon second value from the array b etc... <br>
     - it keeps multipling until the lenght of the first vector is reached <br>
     - restults from all the multiplications are summed up into one scalar value (with one-dimensional arrays) or value wrapped up in a new calculated array (with multi-dimensional arrays). <br>
-  <li>  
-  
+  </li>
+  <br>
+  <br>
+  <img src="images/np_dot.JPG">
 </ul>
