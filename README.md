@@ -9,7 +9,7 @@
   <br>
   <img src="images/svm.png">
   <br>
-  <br>
+  <li>Credits go to en.wikipedia.org/wiki/Support_vector_machine</li>
   <li>Support vectors are extreme points of a specific data set of one category.</li>
   <li>Support vectors are those elements of the data that makes the biggest possible separation gap.</li>
   <li>Distance margin is the distance between support vectors from both data classes.</li>
