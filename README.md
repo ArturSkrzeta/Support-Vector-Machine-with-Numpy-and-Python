@@ -5,6 +5,11 @@
   <li>Splitting the data in the best posible way - to get two data categories/labels.</li>
   <li>The key aspect is to split the data in the as much optimal way as possible so that new coming in data can be precisely clasified.</li>
   <li>The data can be split in different ways. However, the line making the biggest gap between two classes is chosen as the separation line.</li>
+  <br>
+  <br>
+  <img src="images/svm.png">
+  <br>
+  <br>
   <li>Support vectors are extreme points of a specific data set of one category.</li>
   <li>Support vectors are those elements of the data that makes the biggest possible separation gap.</li>
   <li>Distance margin is the distance between support vectors from both data classes.</li>
