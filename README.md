@@ -20,3 +20,20 @@
   <li>If one data of one class is sourrounded by data of second class we need to convert 2D into 3D with <b>kernel</b></li>
 </ul>
 
+<h3>numpy.dot()</h3>
+<ul>
+  <li>Called on x-dimensional arrays equal in lenght. X means the same.</li>
+  <li>Number of columns of array a needs to be as the same as number of rows of array b.</li>
+  <li>When execution gets started, the first row of array a is multiplied by the first column of array b, one element at the time.</li>
+  <li>Result is the scalar value representing the inner product of two vectors when one dimensional arrays.</li>
+  <li>When multi-dimensional arrays then, the result is a new multi-dimensional array.</li>
+  <li>Excecution:
+    <br>
+    - transfroming second array's shape from row into a single column <br>
+    - the first value of the array a is multiplied by the first value of the array b <br>
+    - then second value from the array a is multiplied by the secon second value from the array b etc... <br>
+    - it keeps multipling until the lenght of the first vector is reached <br>
+    - restults from all the multiplications are summed up into one scalar value <br>
+  <li>  
+  
+</ul>
