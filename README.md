@@ -46,5 +46,5 @@
 <h3>np.amax() np.amin()</h3>
 <ul>
   <li>Return the maximum/minimum of an array or maximum/minimum along an axis.</li>
-  
+  <img src="images/np_amax.JPG">
 </ul>
