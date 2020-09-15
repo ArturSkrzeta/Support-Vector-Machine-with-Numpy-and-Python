@@ -22,7 +22,6 @@
 
 <h3>numpy.dot()</h3>
 <ul>
-  <li>Called on x-dimensional arrays equal in lenght. X means the same.</li>
   <li>Number of columns of array a needs to be as the same as number of rows of array b.</li>
   <li>When execution gets started, the first row of array a is multiplied by the first column of array b, one element at the time.</li>
   <li>Result is the scalar value representing the inner product of two vectors when one dimensional arrays.</li>
