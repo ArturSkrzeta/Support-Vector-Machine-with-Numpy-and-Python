@@ -20,6 +20,11 @@
   <li>If one data of one class is sourrounded by data of second class we need to convert 2D into 3D with <b>kernel</b></li>
 </ul>
 
+<h3>numpy.array().shape</h3>
+<ul>
+  <img src="images/np_array_shape.JPG">
+</ul>
+
 <h3>numpy.dot()</h3>
 <ul>
   <li>Number of columns of array a needs to be as the same as number of rows of array b.</li>
