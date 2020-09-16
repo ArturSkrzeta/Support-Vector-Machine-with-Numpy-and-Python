@@ -22,9 +22,11 @@
 
 <h3>Demo</h3>
 <ul>
-  <li>Training Model.</li>
-  <li>Getting new data.</li>
-  <li>Labeling data to 1 or  -1.</li>
+  <li>Training SVM model with Numpy.</li>
+  <li>Getting new data: 4 items x 2 features.</li>
+  <li>Labeling data to 1 or  -1 relying on feature's values.</li>
+  <br>
+  <img source="img/chart.JPG">
 </ul>
 
 <h2>Numpy for Math</h2>
