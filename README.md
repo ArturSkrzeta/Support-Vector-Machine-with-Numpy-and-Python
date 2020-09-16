@@ -26,7 +26,7 @@
   <li>Getting new data: 4 items x 2 features.</li>
   <li>Labeling data to 1 or  -1 relying on feature's values.</li>
   <br>
-  <img source="img/chart.JPG">
+  <img src="img/chart.JPG">
 </ul>
 
 <h2>Numpy for Math</h2>
