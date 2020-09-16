@@ -29,7 +29,7 @@
   <img src="images/chart.JPG">
 </ul>
 
-<h2>Numpy for Math</h2>
+<h2>Numpy for Math (my notes)</h2>
 
 <h3>numpy.array().shape</h3>
 <ul>
