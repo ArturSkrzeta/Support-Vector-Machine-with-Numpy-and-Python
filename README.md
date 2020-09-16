@@ -20,6 +20,15 @@
   <li>If one data of one class is sourrounded by data of second class we need to convert 2D into 3D with <b>kernel</b></li>
 </ul>
 
+<h3>Demo</h3>
+<ul>
+  <li>Training Model.</li>
+  <li>Getting new data.</li>
+  <li>Labeling data to 1 or  -1.</li>
+</ul>
+
+<h2>Numpy for Math</h2>
+
 <h3>numpy.array().shape</h3>
 <ul>
   <img src="images/np_array_shape.JPG">
